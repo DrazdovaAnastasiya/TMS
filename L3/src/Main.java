@@ -33,7 +33,6 @@ public class Main {
                     System.out.println("Operation not found!");
                     continue;
             }
-
             System.out.println("Result: " + result);
             System.out.println("Would you like to continue? (yes/no)");
             String next = scanner.next();
