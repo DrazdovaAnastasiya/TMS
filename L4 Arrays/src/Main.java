@@ -71,7 +71,7 @@ public class Main {
 
 //        5. Вывести все числа палиндромы в массиве
 
-       System.out.print("Palindromes: ");
+        System.out.print("Palindromes: ");
         for (int j : arr) {
             String str = Integer.toString(Math.abs(j));
             if (str.length() == 1) {
