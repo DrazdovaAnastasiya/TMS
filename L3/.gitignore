@@ -9,6 +9,8 @@ L3.iml
 .idea/*
 .idea/**
 
+/out
+
 # Log file
 *.log
 

@@ -9,6 +9,8 @@ L5 Arrays.iml
 .idea/*
 .idea/**
 
+/out
+
 # Log file
 *.log
 
